@@ -31,6 +31,8 @@ Added nav class to UL so it would recognize the CSS.
 I moved the  "list-style-type: none;" to the .nav section, so that I could remove .nav ul.
 
 Added <div id="search-engine-optimization">, so that the link would work, by knowing where to go on the page when the link is pushed.
+
+<img src="https://kittytaylor55.github.io/Homework/Develop/assets/images/Screen Shot 2021-03-13 at 12.55.23 PM.png" alt="screen shot of changes listed above"/>
   
  
 ## Screenshots
