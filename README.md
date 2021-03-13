@@ -34,11 +34,6 @@ Added <div id="search-engine-optimization">, so that the link would work, by kno
 
 <img src="https://kittytaylor55.github.io/Homework/Develop/assets/images/Screen Shot 2021-03-13 at 12.55.23 PM.png" alt="screen shot of changes listed above"/>
   
- 
-## Screenshots
-Include logo/demo screenshot etc.
-
-
 ## Features
 Added a hover over the navigation links, so that when you hover over the links with your mouse, the links change color.
 
