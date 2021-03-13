@@ -1,4 +1,5 @@
-https://kittytaylor55.github.io/Homework/Develop/
+website: https://kittytaylor55.github.io/Homework/Develop/
+github link: https://github.com/kittytaylor55/Homework
 
 # Homework
 Made a working page more accessible and improved the semantics of the webpage, for better search engine optimization.
