@@ -22,6 +22,10 @@ I did both of those changes to make the webapge more SEO friendly, so that webpa
 
 Since most of the font is ( font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;) on the page I put that at the top of the CSS under the * (which selects all elements) section so I could remove it from: .header, .benefits, .search-engine-optimization, .online-reputation-management, .social-media-marketing 
 
+added alt text in image tags, so that the website is more accessible.
+
+<img src="https://kittytaylor55.github.io/Homework/Develop/assets/images/Screen Shot 2021-03-13 at 12.46.48 PM.png" alt="screen shot of changes listed above"/>
+
 Added nav class to UL so it would recognize the CSS.
 
 I moved the  "list-style-type: none;" to the .nav section, so that I could remove .nav ul.
